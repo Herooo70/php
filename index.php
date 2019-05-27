@@ -1,8 +1,9 @@
 <?php
 
-	echo "Olá mundo 456";
+	echo "Olá mundo";
 
 	echo "Esta linha não pode estar em conflito";
 
-	echo "Olá!";
+	echo "Olá Udemy e Hcode! versao 2";
+	
 ?>
